@@ -2,7 +2,7 @@
 This course is on the description, analysis and control of nonlinear systems. Nonlinear systems occur everywhere - in nature and in numerous engineering applications. So, it is very useful to a controls practitioner or theorist to have a good understanding of nonlinear systems and methods to design controllers for them. The focus of the course leans towards mathematical theory and analysis. However, interesting applications in various domains would also be discussed frequently.
 
 Core topics:
-  - Equilibria and qualitative behavior\
+  - Equilibria and qualitative behavior
   - Existence and uniqueness of solutions
   - Lyapunov stability, invariance principle, converse theorems, ultimate boundedness, input-to-state stability
 
